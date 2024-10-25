@@ -1,21 +1,21 @@
 # LCC Device Data Analyzer
 
-The repository contains the website code to store and analyze the data sent from the ['Smart LCC Device'](../Smart-LCC-Device). The website then analyzes and visualizes the collected data using bar charts and heat maps. The purpose is to help the Bangladesh Agriculture Ministry monitor and manage countrywide urea provision effectively.
+The repository contains the website code to store and analyze the data sent from the ['Smart LCC Device.'](../Smart-LCC-Device) The website then analyzes and visualizes the collected data using bar charts and heat maps. The purpose is to help the Bangladesh Agriculture Ministry monitor and manage countrywide urea provision effectively.
 
 ---
 ## Tools And Technology Used
 
-	- Front-End
-		1. HTML
-		2. CSS
-		3. Javascript
-		4. Jquery
-		5. Flexbox Grid
-		6. Bootstrap Material Design
+- Front-End
+	1. HTML
+	2. CSS
+	3. Javascript
+	4. Jquery
+	5. Flexbox Grid
+	6. Bootstrap Material Design
 
-	- Back-End
-		1. PHP
-		2. MySQL
+- Back-End
+	1. PHP
+	2. MySQL
 
 ---
 ## Acheievement
